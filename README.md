@@ -4,14 +4,27 @@ Predicting the likelihood of stroke occurrence using machine learning techniques
 ________________________________________
 📌 Project Overview
 
-Stroke is a major global health challenge and one of the leading causes of death worldwide. Early detection of stroke risk is critical in reducing mortality and improving patient outcomes.
-This project uses machine learning techniques to analyse patient health data and predict the likelihood of stroke occurrence. By identifying key risk factors such as age, hypertension, and glucose levels, the model provides insights that can support preventive healthcare strategies.
+Stroke is a major global health challenge and one of the leading causes of death worldwide. 
+
+Early detection of stroke risk is critical in reducing mortality and improving patient outcomes.
+
+This project uses machine learning techniques to analyse patient health data and predict the likelihood of stroke occurrence. 
+
+By identifying key risk factors such as age, hypertension, and glucose levels, the model provides insights that can support preventive healthcare strategies.
 ________________________________________
 🚨 Problem Statement
 
-Stroke is the second leading cause of death globally, responsible for approximately 11% of total deaths worldwide. Despite advances in healthcare, early detection of stroke risk remains a significant challenge due to the complex interaction of multiple health and lifestyle factors.
-Healthcare providers often rely on clinical assessments, which may not fully capture hidden patterns within patient data. Without predictive tools, it becomes difficult to identify high-risk individuals early and implement preventive measures.
-This project addresses this challenge by applying machine learning techniques to patient data to predict stroke risk. The goal is to uncover key predictors and build a model that supports early intervention and data-driven healthcare decision-making.
+Stroke is the second leading cause of death globally, responsible for approximately 11% of total deaths worldwide. 
+
+Despite advances in healthcare, early detection of stroke risk remains a significant challenge due to the complex interaction of multiple health and lifestyle factors.
+
+Healthcare providers often rely on clinical assessments, which may not fully capture hidden patterns within patient data. 
+
+Without predictive tools, it becomes difficult to identify high-risk individuals early and implement preventive measures.
+
+This project addresses this challenge by applying machine learning techniques to patient data to predict stroke risk. 
+
+The goal is to uncover key predictors and build a model that supports early intervention and data-driven healthcare decision-making.
 ________________________________________
 
 🎯 Project Objectives
@@ -93,9 +106,6 @@ ________________________________________
 
 The following models were developed and evaluated:
 
-
-
-
 •	Logistic Regression
 
 •	Decision Tree Classifier
@@ -103,8 +113,6 @@ The following models were developed and evaluated:
 •	Random Forest Classifier
 
 ________________________________________
-
-
 
 📈 Model Training & Evaluation
 
@@ -161,11 +169,9 @@ ________________________________________
 
 🛠️ Tools & Technologies
 
-
 •	Python (Pandas, NumPy, Scikit-learn)
 
 •	Machine Learning Models (Logistic Regression, Decision Tree, Random Forest)
-
 
 •	Jupyter Notebook
 
@@ -188,14 +194,11 @@ ________________________________________
 
 6.	Prediction and Insight Generation
 
-
 ________________________________________
 
 🚀 Future Improvements
 
-
 •	Apply SMOTE or balancing techniques for imbalanced data
-
 
 •	Use ROC-AUC for deeper evaluation
 
@@ -206,7 +209,10 @@ ________________________________________
 ________________________________________
 
 📝 Conclusion
-This project demonstrates how machine learning can be applied to healthcare data to predict stroke risk and identify key contributing factors. The findings
-highlight the importance of age, glucose levels, and underlying health conditions in stroke occurrence.
+
+This project demonstrates how machine learning can be applied to healthcare data to predict stroke risk and identify key contributing factors. 
+
+The findings highlight the importance of age, glucose levels, and underlying health conditions in stroke occurrence.
+
 The final model provides a strong foundation for building predictive healthcare systems that can support early diagnosis and improve patient outcomes.
 
