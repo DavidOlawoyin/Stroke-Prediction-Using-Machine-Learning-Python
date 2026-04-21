@@ -2,29 +2,30 @@
 
 Predicting the likelihood of stroke occurrence using machine learning techniques to support early detection and preventive healthcare decisions.
 ________________________________________
+
 📌 Project Overview
 
-Stroke is a major global health challenge and one of the leading causes of death worldwide. 
+• Stroke is a major global health challenge and one of the leading causes of death worldwide. 
 
-Early detection of stroke risk is critical in reducing mortality and improving patient outcomes.
+• Early detection of stroke risk is critical in reducing mortality and improving patient outcomes.
 
-This project uses machine learning techniques to analyse patient health data and predict the likelihood of stroke occurrence. 
+• This project uses machine learning techniques to analyse patient health data and predict the likelihood of stroke occurrence. 
 
-By identifying key risk factors such as age, hypertension, and glucose levels, the model provides insights that can support preventive healthcare strategies.
+• By identifying key risk factors such as age, hypertension, and glucose levels, the model provides insights that can support preventive healthcare strategies.
 ________________________________________
 🚨 Problem Statement
 
-Stroke is the second leading cause of death globally, responsible for approximately 11% of total deaths worldwide. 
+• Stroke is the second leading cause of death globally, responsible for approximately 11% of total deaths worldwide. 
 
-Despite advances in healthcare, early detection of stroke risk remains a significant challenge due to the complex interaction of multiple health and lifestyle factors.
+• Despite advances in healthcare, early detection of stroke risk remains a significant challenge due to the complex interaction of multiple health and lifestyle factors.
 
-Healthcare providers often rely on clinical assessments, which may not fully capture hidden patterns within patient data. 
+• Healthcare providers often rely on clinical assessments, which may not fully capture hidden patterns within patient data. 
 
-Without predictive tools, it becomes difficult to identify high-risk individuals early and implement preventive measures.
+• Without predictive tools, it becomes difficult to identify high-risk individuals early and implement preventive measures.
 
-This project addresses this challenge by applying machine learning techniques to patient data to predict stroke risk. 
+• This project addresses this challenge by applying machine learning techniques to patient data to predict stroke risk. 
 
-The goal is to uncover key predictors and build a model that supports early intervention and data-driven healthcare decision-making.
+• The goal is to uncover key predictors and build a model that supports early intervention and data-driven healthcare decision-making.
 ________________________________________
 
 🎯 Project Objectives
