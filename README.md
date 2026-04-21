@@ -211,9 +211,9 @@ ________________________________________
 
 📝 Conclusion
 
-This project demonstrates how machine learning can be applied to healthcare data to predict stroke risk and identify key contributing factors. 
+• This project demonstrates how machine learning can be applied to healthcare data to predict stroke risk and identify key contributing factors. 
 
-The findings highlight the importance of age, glucose levels, and underlying health conditions in stroke occurrence.
+• The findings highlight the importance of age, glucose levels, and underlying health conditions in stroke occurrence.
 
-The final model provides a strong foundation for building predictive healthcare systems that can support early diagnosis and improve patient outcomes.
+• The final model provides a strong foundation for building predictive healthcare systems that can support early diagnosis and improve patient outcomes.
 
